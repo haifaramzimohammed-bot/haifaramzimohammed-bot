@@ -1,6 +1,6 @@
 # Hi there, I'm Haifa Ramzi 👋
 
-### 🎓 Information Technology Student | Software Developer
+### 🎓 Information Technology | Software Developer
 Passionate about building software applications, machine learning models, and web applications.
 
 ---
